@@ -11,7 +11,7 @@ const hdNode = utils.HDNode.fromMnemonic(mnemonic);
 deriviation = {
      metamask : "m/44'/60'/0'/0/",
      ledger : "m/44'/60'/"
-
+0x0d341038a03043dbdc7bb7d16f687c873016aee1
 }
 
 
